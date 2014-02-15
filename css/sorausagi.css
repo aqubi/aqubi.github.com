@@ -8,21 +8,21 @@
 
 /* Commone Style */
 body {
-  background: #fff url(../img/bg.jpg) repeat 0 0;
-  color: #32495F;
+  background: #C7D7D4;
+  color: #5F6160;
   font-family: sans-serif;
 }
 h1, h2, h3, h4, h5, nav, .app_txt {
   font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 900;
-  color: #32495F;
+  color: #535353;
 }
 p {
   font-family: "Oxygen","Helvetica Neue",Helvetica,Arial,sans-serif;
   line-height: 1.4;
 }
 a {
-  color: #32495F;
+  color: #5F6160;
   text-decoration: none;
   border: none;
 }
@@ -33,7 +33,7 @@ img {
   border: none;
 }
 .content_box a {
-  color: #32495F;
+  color: #5F6160;
   text-decoration: underline;
 }
 hr {
@@ -128,7 +128,7 @@ header nav ul li a:hover {
 }
 header nav ul li.active a {
   color: #eee;
-  background-color: #005EB3;
+  background-color: #5F6160;
 }
 .main_box {
   padding: 20px 50px 30px 50px;
