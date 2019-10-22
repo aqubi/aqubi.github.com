@@ -1,13 +1,12 @@
 ---
 layout: app
-title: Recipe Help
+title: Recipe Note Help
 logo: img/recipe.png
 ---
 
 # 食材の設定
 
-# 栄養成分の計算
-
-# アプリ内課金の復元
+準備中
 
 # バックアップ
+準備中
