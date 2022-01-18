@@ -5,6 +5,19 @@ title: Products
 
 # Products
 
+## Stitch Graph Paper
+<img src="img/stitch.png" width="85" height="85" alt="Stitch Graph Paper">  
+Graph Paper for Cross Stitch
+
+- <a href="https://itunes.apple.com/app/id1604058972">View in App Store</a>
+
+## Ratio & Text Calculator
+<img src="img/ratio.png" width="85" height="85" alt="Ratio Text Calculator">  
+Ratio & Text Calculator for Proportional Expressions
+
+- <a href="https://itunes.apple.com/app/id1592937943">View in App Store</a>
+
+
 ## Recipe Note
 <img src="img/recipe.png" width="85" height="85" alt="recipe">  
 Record my recipe and see shopping list.
