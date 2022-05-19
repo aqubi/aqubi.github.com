@@ -1,0 +1,15 @@
+{
+	"items": [{
+			"image": "banner1.jpg",
+			"link": "https://smilems.jp/info/"
+		},
+		{
+			"image": "banner2.jpg",
+			"link": "https://smilems.jp/17_traca/"
+		},
+		{
+			"image": "banner3.jpg",
+			"link": "https://smilems.jp/monthly-cards/"
+		}
+	]
+}
