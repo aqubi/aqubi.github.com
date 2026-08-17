@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="products">
+  {{ content }}
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const container = document.querySelector(".products");
+  const elements = Array.from(container.children);
+
+  const grid = document.createElement("div");
+  grid.className = "products-grid";
+
+  let product = null;
+
+  elements.forEach(function (element) {
+    if (element.tagName === "H2") {
+      product = document.createElement("div");
+      product.className = "product";
+      grid.appendChild(product);
+    }
+
+    if (product) {
+      product.appendChild(element);
+    }
+  });
+
+  container.appendChild(grid);
+});
+</script>

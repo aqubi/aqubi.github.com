@@ -5,9 +5,6 @@ title: Home
 
 <img src="img/usagilogo.png" width="136px" height="176px" alt="logo" />
 
-SoraUsagi Apps develops mobile applications for iOS.  
-Goal is to create simple, useful, fun applications for the mobile platforms.
+SoraUsagi Apps creates simple, useful, and enjoyable apps for iPhone, iPad, and Mac.
+This site provides information and support for apps independently developed by Hideko Ogawa.
 
-This site is a support site for iPhone apps personally created by Hideko Ogawa.
-
-このサイトは、Hideko Ogawaが個人的に作成したiPhoneアプリのサポートサイトです。  

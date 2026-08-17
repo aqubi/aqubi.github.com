@@ -1,7 +1,7 @@
 ---
 layout: app
 title: Recipe Note Help
-logo: img/recipe.png
+css: /assets/css/app.css
 ---
 
 # 食材の登録
@@ -12,7 +12,7 @@ logo: img/recipe.png
 
 
 # 栄養成分の計算
-分量に以下を指定をした場合、栄養成分の計算は以下の値で計算されます。
+分量に以下を指定した場合、栄養成分は以下の値で計算されます。
 
 | 分量 | 量 |
 |---|---|---|
